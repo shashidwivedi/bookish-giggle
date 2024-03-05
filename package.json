@@ -9,9 +9,17 @@
     "preview": "vite preview",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shashidwivedi/bookish-giggle.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shashidwivedi/bookish-giggle/issues"
+  },
+  "homepage": "https://github.com/shashidwivedi/bookish-giggle#readme",
   "dependencies": {
     "three": "^0.162.0"
   },
